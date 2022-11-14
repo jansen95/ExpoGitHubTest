@@ -12,7 +12,7 @@ export default function App(){
             <Tab.Navigator>
                 <Tab.Screen name="HomePage" component={HomeScreen} />
                 <Tab.Screen name="Settings" component={SettingsScreen} />
-                <Tab.Screen name="Third" component={SettingsScreen} />
+                <Tab.Screen name="Map" component={SettingsScreen} />
             </Tab.Navigator>
         </NavigationContainer>
     );
