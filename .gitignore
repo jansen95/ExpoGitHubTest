@@ -1,5 +1,4 @@
 node_modules/
-.expo/
 dist/
 npm-debug.*
 *.jks
@@ -12,3 +11,10 @@ web-build/
 
 # macOS
 .DS_Store
+
+# selbst hinzugefügt (Alex)
+.idea/.gitignore
+.idea/ExpoGitHubTest.iml
+.idea/modules.xml
+.idea/vcs.xml
+.expo/
